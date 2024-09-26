@@ -158,10 +158,10 @@
   const typingBox = document.querySelector('.typewriter-text h1 pre.content');
   const cursor = document.querySelector('span.cursor');
   const texts = [
+    'Trust me, I’m an engineer... with an ESP32 and Wi-Fi!',
     'I have trust issues... because my ESP32 keeps disconnecting.',
     'When in doubt, blame the XML!',
     'Arduino: Making LEDs blink since… forever.',
-    'Trust me, I’m an engineer... with an ESP32 and Wi-Fi!',
     'If Android Studio were a person, we’d have trust issues.',
     "Warning: Too many activities can crash your life.",
     'I have trust issues... because my NodeMcu keeps disconnecting.',
